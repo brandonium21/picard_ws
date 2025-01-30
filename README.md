@@ -24,3 +24,6 @@ start agent
 ### simulation
 `ros2 launch picard launch_sim.launch.py world:=./src/worlds/cones.world`
 
+### update submodules
+
+https://dev.to/serhatteker/changing-git-submodule-repository-to-other-url-branch-356p
