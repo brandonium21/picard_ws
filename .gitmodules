@@ -9,3 +9,7 @@
 	path = src/uros/micro_ros_msgs
 	url = https://github.com/micro-ROS/micro_ros_msgs.git
 	branch = humble
+[submodule "src/ldrobot-lidar-ros2"]
+	path = src/ldrobot-lidar-ros2
+	url = https://github.com/Myzhar/ldrobot-lidar-ros2.git
+	branch = humble
